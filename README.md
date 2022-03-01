@@ -15,7 +15,7 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 1. **Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.**
 
     - template: head and body in html, header, main, footer. 
-    - add header text, main section and text (name, pronouns, hometown)
+    - add a header text, main sectionnd text (name, pronouns, hometown)
     - add button into section and hidden div
     - style hidden class 
     - add event listener for button click in app.js
