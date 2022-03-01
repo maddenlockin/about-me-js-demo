@@ -91,3 +91,11 @@ footer {
 .hidden {
     display: none;
 }
+
+.bold {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
